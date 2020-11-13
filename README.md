@@ -1,3 +1,5 @@
+## NIKO BOT
+
 ## Clone this project
 
 ```bash
